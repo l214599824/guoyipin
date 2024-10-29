@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SHOP>
+  <SHOPITEM>
+    <ITEM_ID>1005007746916641</ITEM_ID>
+    <PRODUCTNAME>Arnagar S9 Robotický vysavač</PRODUCTNAME>
+    <PRODUCT>Arnagar S9 Robotický vysavač</PRODUCT>
+    <DESCRIPTION>Arnagar S9 je cenově dostupný robotický vysavač a mop se samočisticí funkcí. Nabízí vizuální navigaci a gyroskopickou navigaci spolu s 15 infračervenými senzory. Algoritmus vSLAM byl vylepšen a nabízí maximální sací výkon až 3500Pa a provozní dobu 120 minut. Je univerzální pro různá prostředí, takže ho můžete používat ve svém bytě nebo na samostatných patrech, jako je druhé nebo třetí patro. Díky uživatelsky přívětivému ovládání šetří vaše ruce a čas, což vám umožňuje vychutnat si tento vysoce kvalitní produkt při vynaložení minimálních nákladů.</DESCRIPTION>
+    <URL>https://www.aliexpress.com/item/1005007746916641.html</URL>
+    <IMGURL>https://ae01.alicdn.com/kf/S20faf8451fb749ba954f593a7c62c229L.jpg</IMGURL>
+    <IMGURL_ALTERNATIVE>https://ae01.alicdn.com/kf/S769716bf97e14e3ab0d0d493720b8dfbx.jpg</IMGURL_ALTERNATIVE>
+    <PRICE_VAT>4699</PRICE_VAT>
+    <HEUREKA_CPC>3</HEUREKA_CPC>
+    <MANUFACTURER>Arnagar</MANUFACTURER>
+    <CATEGORYTEXT>Domácí a osobní spotřebiče | Úklidové spotřebiče | Robotické vysavače</CATEGORYTEXT>
+    <EAN>727824635484</EAN>
+    <PRODUCTNO>CES90BEU</PRODUCTNO>
+    <PARAM>
+      <PARAM_NAME>Značka</PARAM_NAME>
+      <VAL>S9</VAL>
+      <PARAM_NAME>Pracovní výkon</PARAM_NAME>
+      <VAL>28W</VAL>
+      <PARAM_NAME>Sací výkon</PARAM_NAME>
+      <VAL>3500PA</VAL>
+      <PARAM_NAME>Navigace</PARAM_NAME>
+      <VAL>Vizuální navigace + Gyroskopická navigace</VAL>
+      <PARAM_NAME>Kapacita baterie</PARAM_NAME>
+      <VAL>2600mAh</VAL>
+    </PARAM>
+    <DELIVERY_DATE>5</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>DHL</DELIVERY_ID>
+      <DELIVERY_PRICE>Free</DELIVERY_PRICE>
+      <DELIVERY_PRICE_COD>Free</DELIVERY_PRICE_COD>
+    </DELIVERY>
+    <EXTENDED_WARRANTY>
+        <VAL>24</VAL>
+        <DESC>Záruka na 24 měsíců</DESC>
+    </EXTENDED_WARRANTY>
+  </SHOPITEM>
+  <SHOPITEM>
+  </SHOPITEM>
+</SHOP>
